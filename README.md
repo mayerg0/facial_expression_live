@@ -28,5 +28,5 @@ Dataset found [here](https://www.kaggle.com/c/challenges-in-representation-learn
 ## Model
 
 Convolutional neural network inspired from [this paper](https://arxiv.org/pdf/1307.0414.pdf)
-[]model.png
+[](model.png)
 
