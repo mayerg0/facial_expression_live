@@ -14,4 +14,4 @@ Live facial expression analysis using a CNN built in tensorflow.keras
 # Description
 
 ## Dataset
-Dataset found here[https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data]
+Dataset found [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
