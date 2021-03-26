@@ -30,3 +30,9 @@ Dataset found [here](https://www.kaggle.com/c/challenges-in-representation-learn
 Convolutional neural network inspired from [this paper](https://arxiv.org/pdf/1307.0414.pdf)
 ![](model.png)
 
+Facial detection model is pretrained (opencv)
+
+## App
+
+Written in Flask. Camera.py retrieves your local webcam and facial expression predictions are made in real time
+
