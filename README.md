@@ -25,4 +25,8 @@ Dataset found [here](https://www.kaggle.com/c/challenges-in-representation-learn
 * 436 disgust images
 * 4097 fear images
 
+## Model
+
+Convolutional neural network inspired from [this paper](https://arxiv.org/pdf/1307.0414.pdf)
+[]model.png
 
