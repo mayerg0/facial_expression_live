@@ -1,6 +1,8 @@
 # Live facial expression analysis using a Convolutional Neural Network
 Live facial expression analysis using a CNN built in tensorflow.keras
 
+Once installed, this app will try to predict your facial expressions in real time through your webcam!
+
 # Installation
 `cd \path\to\Project\`
 
