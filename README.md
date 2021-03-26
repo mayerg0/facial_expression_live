@@ -15,3 +15,14 @@ Live facial expression analysis using a CNN built in tensorflow.keras
 
 ## Dataset
 Dataset found [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+
+
+* 3171 surprise images
+* 7214 happy images
+* 4965 neutral images
+* 3995 angry images
+* 4830 sad images
+* 436 disgust images
+* 4097 fear images
+
+
